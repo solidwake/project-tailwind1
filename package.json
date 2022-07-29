@@ -1,7 +1,7 @@
 {
   "name": "project-tailwind1",
   "version": "1.0.0",
-  "description": "tailwind demo",
+  "description": "tailwindcss demo",
   "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i ./css/input.css -o ./css/output.css -w"
