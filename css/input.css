@@ -51,7 +51,7 @@ body {
     transform: translateY(7px);
 }
 
-.hamburger-middle {
+.hamburger-bottom {
     transform: translateY(14px);
 }
 
@@ -64,8 +64,8 @@ body {
     transform:rotate(45deg) translateY(6px) translate(6px);
 }
 
-.open .hamburger-top {
-    transform:rotate(-45deg) translateY(-6px) translate(6px);
+.open .hamburger-bottom {
+    transform:rotate(-45deg) translateY(6px) translate(-6px);
 }
 
 .open .hamburger-middle {
